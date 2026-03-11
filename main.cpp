@@ -7,6 +7,7 @@ void greet() {
 
 int main() {
     cout << "Hello from MAIN branch!" << endl;
+    cout << "Hello, from FEATURE branch!" << endl;
     cout << "7OKA ragel boom" << endl;
     greet();
     return 0;
